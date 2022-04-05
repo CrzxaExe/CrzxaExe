@@ -1,4 +1,7 @@
 ## Crzx
+
+![Logo](asset/logo (1).png)
+
 Here i want to make a bot for any apps. <br>
 Experimet only
 
