@@ -10,4 +10,9 @@ ___
 - Whatsapp Bot ❎
 ```
 
-- [ ] JavaScript
+## Lang
+
+- [ ] C++
+- [x] JavaScript
+- [ ] Python
+- [ ] Ruby
