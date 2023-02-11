@@ -3,7 +3,7 @@
 ![Logo](https://github.com/CrzxaExe/CrzxaExe/blob/569529637ad2efc5c74f8984b265cfe9e18b18a0/asset/Logo%20(1).png)
 
 Here i want to make a bot for any apps. <br>
-Experimet only
+Experiment only
 
 ## Lang
 
