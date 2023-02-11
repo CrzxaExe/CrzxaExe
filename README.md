@@ -18,6 +18,6 @@ Experimet only
 
 | Apps | Done | Links | Status | Version |
 |----|----|------|----|----:|
-| `Discord` | `✅` | [Invite Bot](https://discord.com/oauth2/authorize?client_id=841197823378587658&scope=bot&permissions=2147483656) | Maintenance | 0.2.5r |
+| `Discord` | `✅` | [Invite Bot](https://discord.com/oauth2/authorize?client_id=841197823378587658&scope=bot&permissions=2147483656) | Stack | 0.2.5r |
 | `Telegram` | `❎` | - | Proses | - |
-| `Whatsapp` | `❎` | - | Proses | - |
+| `Whatsapp` | `✅` | - | Stack | v0.1.8 |
