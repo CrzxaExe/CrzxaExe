@@ -3,16 +3,16 @@
 ![Logo](https://github.com/CrzxaExe/CrzxaExe/blob/569529637ad2efc5c74f8984b265cfe9e18b18a0/asset/Logo%20(1).png)
 
 Here i want to make a bot for any apps. <br>
-And i want to do something with my programming skills
+And i want to do something with my programming skills <br>
 This will be my experiments
 
-# Lang
-
-- [ ] C++
-- [X] HTML
-- [x] JavaScript
-- [ ] Python
-- [ ] TypeScript
+# Zxra
+Programmer, game modder, bot creator <br>
+Here we are Zxra <br>
+We come to create an inovations for many apps
+```
+const { ZxraDB } = require('zxra')
+```
 
 # List Bot
 
@@ -24,13 +24,11 @@ This will be my experiments
 | `Instagram`| `❎` | - | Proses | - |
 
 # Mod for some Game
-* Mindustry
-Import from github and type this
+* Mindustry <br>
+Import from github and type this <br>
 And you can also see mod folder in [here](https://github.com/CrzxaExe/ZxraDustry.git)
 ```
  Crzxa/ZxraDustry
 ```
-* Minecraft
+* Minecraft <br>
 You can download [Zxra Creation](https://www.mediafire.com/folder/cia6pasbhy1f6/Cz2)
-
-[Zxra](Zxra.md)
