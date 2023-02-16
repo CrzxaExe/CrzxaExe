@@ -3,8 +3,8 @@
 ![Logo](https://github.com/CrzxaExe/CrzxaExe/blob/569529637ad2efc5c74f8984b265cfe9e18b18a0/asset/Logo%20(1).png)
 
 Here i want to make a bot for any apps. <br>
-And i want to do something with my programing skills
-Experiment only
+And i want to do something with my programming skills
+This will be my experiments
 
 # Lang
 
@@ -12,7 +12,6 @@ Experiment only
 - [X] HTML
 - [x] JavaScript
 - [ ] Python
-- [ ] Ruby
 - [ ] TypeScript
 
 # List Bot
@@ -24,7 +23,7 @@ Experiment only
 | `Whatsapp` | `✅` | - | Stack | v0.1.8 |
 | `Instagram`| `❎` | - | Proses | - |
 
-# Addons and mod for some Game
+# Mod for some Game
 * Mindustry
 Import from github and type this
 And you can also see mod folder in [here](https://github.com/CrzxaExe/ZxraDustry.git)
