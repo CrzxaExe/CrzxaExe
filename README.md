@@ -20,7 +20,7 @@ const { ZxraDB } = require('zxra')
 |----|----|------|----|----:|
 | `Discord` | `✅` | [Invite Bot](https://discord.com/oauth2/authorize?client_id=841197823378587658&scope=bot&permissions=2147483656) | Stuck | 0.2.5r |
 | `Telegram` | `❎` | - | Proses | - |
-| `Whatsapp` | `✅` | - | Stack | v0.1.8 |
+| `Whatsapp` | `✅` | - | Stuck | v0.1.8 |
 | `Instagram`| `❎` | - | Proses | - |
 
 # Mod for some Game
@@ -31,7 +31,7 @@ And you can also see mod folder in [here](https://github.com/CrzxaExe/ZxraDustry
  Crzxa/ZxraDustry
 ```
 * Minecraft <br>
-You can download
--[Zxra Creation](https://www.mediafire.com/folder/cia6pasbhy1f6/Cz2)
+You can download <br>
+-[Zxra Creation](https://www.mediafire.com/folder/cia6pasbhy1f6/Cz2)<br>
 -[Zxra Api]()
 
