@@ -7,7 +7,7 @@ And i want to do something with my programming skills <br>
 This will be my experiments
 
 # Zxra
-Programmer, game modder, bot creator <br>
+Programmer, game modder, bot creator, artist, content creator <br>
 Here we are Zxra <br>
 We come to create an inovations for many apps
 ```
