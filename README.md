@@ -1,6 +1,6 @@
 # Crzx
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CrzxaExe&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=)
+![Stats](https://github-readme-stats.vercel.app/api?username=CrzxaExe&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1)
 
 ![Logo](https://github.com/CrzxaExe/CrzxaExe/blob/569529637ad2efc5c74f8984b265cfe9e18b18a0/asset/Logo%20(1).png)
 
