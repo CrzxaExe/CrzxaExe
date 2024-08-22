@@ -26,25 +26,3 @@ We come to create an inovations for many apps
 ```
 const { ZxraDB } = require('zxra')
 ```
-
-# List Bot
-
-| Apps | Done | Links | Status | Version |
-|----|----|------|----|----:|
-| `Discord` | `✅` | [Invite Bot](https://discord.com/oauth2/authorize?client_id=841197823378587658&scope=bot&permissions=2147483656) | Stuck | 0.2.5r |
-| `Telegram` | `❎` | - | Proses | - |
-| `Whatsapp` | `✅` | - | Stuck | v0.1.8 |
-| `Instagram`| `❎` | - | Proses | - |
-
-# Mod for some Game
-* Mindustry <br>
-Import from github and type this <br>
-And you can also see mod folder in [here](https://github.com/CrzxaExe/ZxraDustry.git)
-```
- Crzxa/ZxraDustry
-```
-* Minecraft <br>
-You can download <br>
--[Zxra Creation](https://www.mediafire.com/folder/cia6pasbhy1f6/Cz2)<br>
--[Zxra Api](https://github.com/CrzxaExe/Zxra-Api)
-
