@@ -21,11 +21,12 @@ struct Node {
 - Doubly List bisa 2 arah
 - Doubly List memiliki Head & Tail, Singly List hanya Head
 - Jika hanya mempunyai potongan dari Doubly List, maka keseluruhan dari Doubly List bisa di dapat, Singly hanya bisa mendapatkan keseluruhan data jika mulai dari Headnya
+- Penyimpanan Doubly List akan lebih besar ketimbang Singly List
 
 # Note
 Untuk mempermudah bisa tambahkan typedef
 ```c++
-typedef  struct Node *alamat
+typedef  struct Node *alamat;
 ```
 
 # Inisiasi
@@ -65,7 +66,7 @@ void insertFirst(alamat baru) {
 
 3. insertLast
 
-konsep: sama seperti insertFirst, tetapi di bagian terakhir dari list
+konsep: sama seperti insertFirst, tetapi di bagian terakhir dari list, singly list membutuhkan pengulangan
 
 ```c++
 // singly list
@@ -89,7 +90,7 @@ void insertLast(alamat baru) {
 
 4. insertAfter
 
-konsep: menambahkan alamat baru setelah data yang di cari dengan cara mencari nilai data yg dicari
+konsep: menambahkan alamat baru setelah data yang di cari dengan cara mencari nilai data yg dicari dgn pengulangan
 
 ```c++
 void insertAfter(int cari, alamat baru) { // forward
@@ -141,7 +142,7 @@ void deleteFirst() {
 
 6. deleteLast()
 
-konsep: sama seperti deleteFirst namun pada Last
+konsep: sama seperti deleteFirst namun pada Last, singly list membutuhkan pengulangan
 
 ```c++
 // doubly list
@@ -182,7 +183,7 @@ void deleteLast() {
 
 7. deleteAfter
 
-konsep: menghapus data yg berada di antara Node setelah data yang dicari
+konsep: menghapus data yg berada di antara Node setelah data yang dicari dgn pengulangan
 
 ```c++
 void deleteAfter(int data) { // forward
@@ -216,6 +217,20 @@ void deleteAfter(int data) { // backward - hanya doubly list
     tmp->next->prev = tmp; // hanya doubly list
     tmp->next = tmp->next->next;
     free(c);
+  }
+}
+```
+
+8. display / print
+
+konsep: menampilkan semua data linked list dgn pengulangan
+
+```c++
+void display() {
+  alamat tmp = first;
+  while(tmp->next != NULL) {
+    cout << tmp->data << endl;
+    tmp = tmp->next;
   }
 }
 ```
