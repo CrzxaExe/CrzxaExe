@@ -99,22 +99,28 @@ void insertAfter(int cari, alamat baru) { // forward
     tmp = tmp->next;
   }
 
-  tmp->next->prev = baru; // hanya doubly list
-  baru->next = tmp->next;
+  if(tmp->next->next != NULL) {
+    tmp->next->prev = baru; // hanya doubly list
+    baru->next = tmp->next;
+  }
+
   tmp->next = baru;
   baru->prev = tmp; // hanya doubly list
 }
 
-void insertAfter(int cari, alamat baru) { // backward - hanya doubly list 
+void insertAfter(int cari, alamat baru) { // backward - hanya doubly list
   alamat tmp = last;
   while(tmp->data != cari && tmp->prev != NULL) {
     tmp = tmp->prev;
   }
 
-  tmp->next->prev = baru;
-  baru->next = tmp->next;
+  if(tmp->next->next != NULL) {
+    tmp->next->prev = baru; // hanya doubly list
+    baru->next = tmp->next;
+  }
+
   tmp->next = baru;
-  baru->prev = tmp;
+  baru->prev = tmp; // hanya doubly list
 }
 ```
 
