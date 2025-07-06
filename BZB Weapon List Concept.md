@@ -1,23 +1,23 @@
 # Bringer concept
 
-Atk 11
-Type: Reaper
-Rarity: Epic
-Tags: Survival, Force, DPS
+Atk 11<br/>
+Type: Reaper<br/>
+Rarity: Epic<br/>
+Tags: Survival, Force, DPS<br/>
 
-Trait [Reaper]
+Trait [Reaper]<br/>
 Deals AOE damage to All enemy in front of user(Cone Shape) and heal user for every enemy hited
 
-Pasif:
+Pasif:<br/>
 [Kill Benefit]: Everytime killing enemy, user will get healed by 20% Max HP
 
-Skills:
-1>
-[Grace Pull], 17 Stamina | 6.5s CD | No Sneak
+Skills:<br/>
+1><br/>
+[Grace Pull], 17 Stamina | 6.5s CD | No Sneak<br/>
 Pull all target on cone area in front of user with small force , deals 120% Atk
 
-2>
-3>
+2><br/>
+3><br/>
 
 
 #Destreza concept
