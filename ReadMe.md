@@ -2,7 +2,7 @@
 
 # Hi, Im Bintang
 
-<img align="left" height="265" alt="Logo" src="https://avatars.githubusercontent.com/u/78332709?s=265&u=4aa87c566a5fb68af00b3f830e39200dcfee5529&v=4"  />
+<img align="left" height="200" alt="Logo" src="https://avatars.githubusercontent.com/u/78332709?s=200&u=4aa87c566a5fb68af00b3f830e39200dcfee5529&v=4"  />
 
 ```csharp
 CrzxaExe@github.com
