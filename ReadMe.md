@@ -2,7 +2,7 @@
 
 # Hi, Im Bintang
 
-<img align="left" height="265" alt="Logo" src="https://avatars.githubusercontent.com/u/78332709?s=400&u=4aa87c566a5fb68af00b3f830e39200dcfee5529&v=4"  />
+<img align="left" height="265" alt="Logo" src="https://avatars.githubusercontent.com/u/78332709?s=265&u=4aa87c566a5fb68af00b3f830e39200dcfee5529&v=4"  />
 
 ```csharp
 CrzxaExe@github.com
@@ -17,7 +17,7 @@ Hobbies  : Drawing, Gaming
 Discord  : crzxaexe3
 ```
 
-###
+### Statistic
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CrzxaExe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
